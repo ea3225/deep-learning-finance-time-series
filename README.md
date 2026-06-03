@@ -133,3 +133,5 @@ This repository is intended as a portfolio project demonstrating deep learning a
 
 It does not redistribute course-provided datasets, helper libraries, or assignment materials.
 
+Additional experimentation included policy-gradient-based reinforcement learning methods completed as part of the same coursework.
+
